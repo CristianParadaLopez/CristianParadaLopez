@@ -1,4 +1,3 @@
-<!-- Puedes subir tu imagen a tu repositorio y usar esta línea con la ruta correcta -->
 <img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" align="right" alt="Cristian Parada" style="border-radius: 50%;" />
 
 # 👋 ¡Hola! Soy Cristian Alexander Parada López
