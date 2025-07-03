@@ -10,7 +10,7 @@
 🗣️ Inglés intermedio  
 📱 Desarrollo aplicaciones **web** y **móviles** que puedes explorar en mis repositorios.
 
----
+
 
 ## 🛠 Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,php,ts)](https://skillicons.dev)
