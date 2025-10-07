@@ -34,8 +34,8 @@
 
 ## 📫 Contacto
 
-- 📧 cristianparadalopez@gmail.com  
-- 💼  
-- 🌐 Portafolio
+- 📧 Correos: cristianparadalopez@gmail.com  paradalopezcristianalexander@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/cristian-alexander-parada-lópez-40a504371
+- 🌐 Portafolio: https://cristianparadalopez.github.io/Portafolio/
 
 ---
