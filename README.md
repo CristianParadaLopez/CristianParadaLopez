@@ -1,6 +1,6 @@
 <img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" align="right" alt="Cristian Parada" style="border-radius: 50%;" />
 
- 👋 ¡Hola! Soy Cristian Alexander Parada López
+#👋 ¡Hola! Soy Cristian Alexander Parada López
 
 👨‍💻 Desarrollador salvadoreño apasionado por la tecnología y la innovación.  
 🎓 Graduado del Técnico en Desarrollo de Aplicaciones Informáticas  
