@@ -1,4 +1,18 @@
-<img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" align="right" alt="Cristian Parada" style="border-radius: 50%;" />
+<table border="0">
+  <tr>
+    <td>
+      <h1>👋 ¡Hola! Soy Cristian Alexander Parada López</h1>
+      <p>👨‍💻 Desarrollador salvadoreño apasionado por la tecnología y la innovación.</p>
+      <p>🎓 Graduado del Técnico en Desarrollo de Aplicaciones Informáticas</p>
+      <p>🎓 Estudiante de la Licenciatura en Ciencias de la Computación</p>
+      <p>🌎 Originario de <b>San Salvador, El Salvador</b></p>
+      <p>🗣️ Inglés intermedio</p>
+    </td>
+    <td width="150" valign="top">
+      <img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" alt="Cristian Parada" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 # 👋 ¡Hola! Soy Cristian Alexander Parada López
 
@@ -28,7 +42,7 @@
 ## 📈 Estadísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianParadaLopez&theme=dark&locale=es)](https://git.io/streak-stats)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianParadaLopez&layout=compact)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=CristianParadaLopez&layout=compact&theme=dark)
 
 ---
 
