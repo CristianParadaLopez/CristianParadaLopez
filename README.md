@@ -1,20 +1,6 @@
-<table border="0">
-  <tr>
-    <td>
-      <h1>👋 ¡Hola! Soy Cristian Alexander Parada López</h1>
-      <p>👨‍💻 Desarrollador salvadoreño apasionado por la tecnología y la innovación.</p>
-      <p>🎓 Graduado del Técnico en Desarrollo de Aplicaciones Informáticas</p>
-      <p>🎓 Estudiante de la Licenciatura en Ciencias de la Computación</p>
-      <p>🌎 Originario de <b>San Salvador, El Salvador</b></p>
-      <p>🗣️ Inglés intermedio</p>
-    </td>
-    <td width="150" valign="top">
-      <img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" alt="Cristian Parada" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/CristianParadaLopez/CristianParadaLopez/blob/main/yo.jpg" width="150" align="right" alt="Cristian Parada" style="border-radius: 50%;" />
 
-# 👋 ¡Hola! Soy Cristian Alexander Parada López
+### 👋 ¡Hola! Soy Cristian Alexander Parada López
 
 👨‍💻 Desarrollador salvadoreño apasionado por la tecnología y la innovación.  
 🎓 Graduado del Técnico en Desarrollo de Aplicaciones Informáticas  
