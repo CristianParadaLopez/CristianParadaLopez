@@ -11,16 +11,19 @@
 
 
 ## 🛠 Lenguajes
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,php,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,php,ts,tailwind)](https://skillicons.dev)
 
 ## 🖥️ Frameworks y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,git,nodejs,npm,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,git,github,nodejs,npm,react,astro)](https://skillicons.dev)
 
 ## 📱 Desarrollo móvil
 [![My Skills](https://skillicons.dev/icons?i=figma,firebase,flutter,gradle,java,kotlin,androidstudio)](https://skillicons.dev)
 
 ## 🛢 Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql)](https://skillicons.dev)
+
+## 💻 Sistemas Operativos
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian)](https://skillicons.dev)
 
 ---
 
